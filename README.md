@@ -2,7 +2,7 @@
 
 Exercise for MSCH-C220
 
-A demonstration of this exercise is available at [https://youtu.be/psRW-I77QKw](https://youtu.be/psRW-I77QKw)
+A demonstration of this exercise is available at [https://youtu.be/psRW-I77QKw](https://youtu.be/psRW-I77QKw) (this used to be Exercise 04c, so don't let me confuse you)
 
 This exercise is designed to continue our creation of a 2D Platformer, by laying out three levels using Godot's TileMap node.
 
